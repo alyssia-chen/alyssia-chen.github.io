@@ -52,9 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Django",
+        "R"
       ]
     },
     {
@@ -62,75 +61,59 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Google Suite",
+        "Microsoft Office Suite"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "B.A.",
+      "startDate": "2019-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Business (expected Spring, 2023)",
+      "studyType": "B.B.A",
+      "startDate": "2019-08-01",
+      "endDate": "Present",
+      "gpa": "4.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Department of Taxation (Upcoming)",
+      "position": "Student Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-08-23",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist with service requests for the Gentax application",
+        "Utilize content management system WordPress, the email delivery vendor Mailchimp, and the Hawaii State Calendar of Events"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Intergroup Social Perception Lab",
+      "position": "Research Assistant",
+      "website": "https://manoa.hawaii.edu/isplab/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-06-15",
+      "summary": "Help principal investigators with their research",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Managed a database of parents to contact for the studies once their children are eligible",
+        "Improved efficiency of a database by creating codes and automating processes",
+        "Read and assessed pertinent research articles related to child development and social psychology at weekly lab meetings",
+        "Wrote basic code to analyze the effectiveness of educational philosophy in R"
       ]
     }
   ],
