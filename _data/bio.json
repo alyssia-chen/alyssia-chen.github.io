@@ -89,7 +89,7 @@
       ]
     }
   ],
-  "work": [
+  "experience": [
     {
       "company": "Department of Taxation",
       "position": "Student Intern",
@@ -100,6 +100,19 @@
       "highlights": [
         "Assist with service requests for the Gentax application",
         "Utilize content management system WordPress, the email delivery vendor Mailchimp, and the Hawaii State Calendar of Events"
+      ]
+    },
+    {
+      "company": "Pacific Health Analytics Collaboration",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2021-06-14",
+      "endDate": "2021-07-23",
+      "summary": "",
+      "highlights": [
+        "Gained hands-on experience (statistical analysis, data visualization) with R",
+        "Created and developed research questions related to health analytics based on a national dataset",
+        "Learned how to conduct reproducible, replicable, and ethical research"
       ]
     },
     {
