@@ -27,7 +27,10 @@ This was my first time working with Meteor so I learned quite a bit about how to
 Besides the coding experience itself, I also learned more about working on a coding project in larger groups. I only recently did a two-person coding project (my first coding collaboration.. ever) during the summer with a friend, so moving from that to working with a group where I didn’t know half the people was quite an experience. In the past 2 months or so, I've recognized the importance of constant communication within the team and the strength of using better software development practices. 
 
 ## What I personally contributed to the project
-On the backend side of this project, I created the database for storing statuses (presence or absence of COVID symptoms) and worked on creating the page with the form to add a status. On the frontend side, I worked with another team member (Jolie) to design the overall look of the website using Figma. Then I implemented the Profile page to match our design. On the logistical side, I helped create agendas for our meetings.
+On the backend side of this project, I created the database for storing statuses (presence or absence of COVID symptoms) and worked on creating the page with the form to add a status. 
+<img class="ui medium right floated rounded image" src="../images/ICS491COVIDTrackerDatabaseDesign.png">
+
+On the frontend side, I worked with another team member (Jolie) to design the overall look of the website using Figma. Then I implemented the Profile page to match our design. On the logistical side, I helped create agendas for our meetings.
 
 I'm excited to work with this team on the upcoming hackathons!
 
