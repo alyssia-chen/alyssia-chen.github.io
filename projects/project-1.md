@@ -10,7 +10,7 @@ date: 2021-10-14
 labels:
   - ICS 491
   - Meteor
-summary: My team developed a web application that tracks a users COVID status over time and allows them to keep their vaccination record in the application. 
+summary: My team developed a web application that tracks users' COVID status over time and allows them to keep their vaccination record in the application. 
 ---
 
 ## Description of the application developed
