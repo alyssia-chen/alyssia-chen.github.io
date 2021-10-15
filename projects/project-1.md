@@ -22,10 +22,12 @@ This application allows users to create and maintain an account that allows the 
 - [More detailed information](https://ics491-fall2021.github.io/covid-tracker.github.io/)
 
 ## What I learned from the experience
-This was my first time working with Meteor so I learned quite a bit about how to use it and how it differs from other frameworks. Because of my limited experience with creating applications in general, I’m sure I’m not appreciating the profundity of Meteor, but it was definitely interesting to learn about how it works. Specifically, it was amazing to see how the Meteor team took the well-established idea of request-response and replaced it with a new system. Specifically, a system that involves storing mini databases on the client side and using different protocols and the sub-pub system to maintain database integrity. 
+This was my first time working with Meteor so I learned quite a bit about how to use it and how it differs from other frameworks. Because of my limited experience with creating applications in general, I’m sure I’m not appreciating the profundity of Meteor, but it was definitely interesting to learn about how it works. Specifically, it was amazing to see how the Meteor team took the well-established idea of request-response and replaced it with a new system (a system that involves storing mini databases on the client side and using different protocols and the sub-pub system to maintain database integrity).
 
 Besides the coding experience itself, I also learned more about working on a coding project in larger groups. I only recently did a two-person coding project (my first coding collaboration.. ever) during the summer with a friend, so moving from that to working with a group where I didn’t know half the people was quite an experience. In the past 2 months or so, I've recognized the importance of constant communication within the team and the strength of using better software development practices. 
 
 ## What I personally contributed to the project
 On the backend side of this project, I created the database for storing statuses (presence or absence of COVID symptoms) and worked on creating the page with the form to add a status. On the frontend side, I worked with another team member (Jolie) to design the overall look of the website using Figma. Then I implemented the Profile page to match our design. On the logistical side, I helped create agendas for our meetings.
+
+I'm excited to work with this team on the upcoming hackathons!
 
