@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/micromouse.jpg
+image: images/ICS491COVIDTracker.png
 title: COVID Tracker
 permalink: projects/covidtracker
 # All dates must be YYYY-MM-DD format!
