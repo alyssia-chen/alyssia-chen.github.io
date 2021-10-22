@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false
+published: true
 image: images/ICS491ProxamieLanding.png
 title: Proxamie
 permalink: projects/proxamie
