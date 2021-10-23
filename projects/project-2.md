@@ -38,7 +38,7 @@ On the less technical side of things, this experience taught me so much about te
 
 For this application, I came up with the idea and was thrilled when everyone was on board to use it for this hackathon. On the first day of the hackathon, I worked with Abdullah to hammer out how the architecture of the entire application would be structured and a very rough mockup of each page. I felt this was important at the time because I believed it would help us all get a bigger and better picture of our project. On the right is a picture of the visual representation I made during my meeting with Abdullah and later sent out to the group. Additionally, Abdullah and I also laid out how the databases would be connected; I drew an entity relationship model to help us keep track of this. 
 
-<img class="ui left floated rounded image" width="30%" src="../images/ICS491ProxamieProfile.png">
+<img class="ui left floated rounded image" width="40%" src="../images/ICS491ProxamieProfile.png">
 Next, Jolie and I worked on crafting the pitch for our project which I then presented to the judges. I implemented some of the databases, but on the second day, I mostly worked on implementing the calendar for the profile and add-availabilities page (pictured on the left). During this process, I came up with an idea for the name of our project and a logo. Our name (Proxamie) is the combination of the words “proximity” and “amie” (which means friend in French) which I thought was fitting for our project. The logo I designed and drew for our project which we then built our styling off of for the rest of the application is shown below. 
 
 <img class="ui right floated rounded image" width="20%" src="../images/ICS491ProxamieLogo.png">
