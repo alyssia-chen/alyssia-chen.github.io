@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/ICS491ProxamieLanding.png
-title: Proxamie
+title: Meteor Hackathon - Proxamie
 permalink: projects/proxamie
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-22
@@ -15,7 +15,6 @@ labels:
 summary: A web application for responsible and safe hangout planning that my team developed in ICS 491 for the Meteor Hackathon.
 ---
 
-# Proxamie
 ## Description of the application developed
 Proxamie is the application [Jolie](https://jolieching.github.io/), [Dylan](https://dylandecker.github.io/projects/), [Abdullah](https://mujtaba-a-quadri.github.io/), and I designed and completed in 5 days for the Meteor Hackathon. Our idea was to create an application where people could schedule “hangouts” in self-created groups based on everyone’s availability and interests, but in a more responsible and safer way by implementing safety features such as a warning when hangout groups are greater than a certain size and tracking who the user has been in contact with (hung out with) in the past 2 weeks. Essentially, Proxamie is a hangout app to help people gain more social interaction during these times with contact tracing. 
 
