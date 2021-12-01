@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/ICS491WahiLanding.png
+image: images/ICS491WahiConfirm.png
 title: Hawaii Annual Coding Challenge - Wahi
 permalink: projects/wahi
 # All dates must be YYYY-MM-DD format!
@@ -20,16 +20,16 @@ summary: A web and mobile application to help HMAR and NIC with improving the ef
 HMAR and NIC currently have a system where public beachgoers call a hotline to report marine life sightings regarding seals, turtles, and sea birds. While this system does work, for this hackathon challenge, we were tasked to help HMAR and NIC solve some issues they currently face (e.g.  callers not knowing the location name, poor audio near the ocean, lack of photo-gathering capabilities, multiple calls per animal that isn’t consolidated into one report). Wahi is the application [Jolie](https://jolieching.github.io/), [Dylan](https://dylandecker.github.io/projects/), [Mirabela](https://miraabela.github.io/), [Abdullah](https://mujtaba-a-quadri.github.io/), and I developed from October 23rd to November 20th. Specifically, Wahi is a two-part application that includes a mobile side and web side. Essentially, public beachgoers will use the phone app we designed to fill out a form that records information and pictures about the animal and the user’s location. 
 
 Once they submit the form, it will be added to the application’s database and will be accessible by HMAR volunteers on the Wahi website. On this website, HMAR volunteers have several views. 
-<img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiLanding.png">
+<img class="ui floated rounded image" width="45%" src="../images/ICS491WahiLanding.png">
 This view displays all of the reports (which can be filtered) and allows for volunteers to confirm whether a report is legitimate.
-<img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiList.png">
+<img class="ui floated rounded image" width="45%" src="../images/ICS491WahiList.png">
 This view displays sightings that the algorithm we wrote found were related. Here, volunteers can confirm or deny whether these reports are indeed related. 
-<img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiConfirm.png">
+<img class="ui floated rounded image" width="45%" src="../images/ICS491WahiConfirm.png">
 This view allows the volunteers to view the reports on a map.
-<img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiMap.png">
+<img class="ui floated rounded image" width="45%" src="../images/ICS491WahiMap.png">
 
 This view has buttons that the volunteers can press in order to download a csv file with all of the reports (per animal) that is formatted in a way that is compatible with the spreadsheet HMAR and NIC currently use. 
-<img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiExport.png">
+<img class="ui floated rounded image" width="45%" src="../images/ICS491WahiExport.png">
 
 ## Links to the source code (and deployed application)
  - [Source code](https://github.com/HACC2021/DAAJ)
@@ -55,4 +55,4 @@ Besides working on the related-sightings algorithm and filters, I also worked on
 For this hackathon, I also took on a more project-management role which was fun because I got to check-in on people and I finally became comfortable with utilizing the Github project boards. Finally, the last thing I did was find a background for our application. It’s such an easy coding change (aka just adding a small css block), but it took me quite a while to find the perfect background for our application. I’m super happy with how it looks though so behold!
 
 ## Final thoughts
-	This semester went by so quickly once the hackathons started and it’s crazy to think about how our group went from barely knowing each other to a fun and understanding team. I was initially really scared to take this class because I haven’t taken ICS 314 yet, but I’m glad I did because I learned a lot this semester, especially about the importance of teamwork and communication.
+This semester went by so quickly once the hackathons started and it’s crazy to think about how our group went from barely knowing each other to a fun and understanding team. I was initially really scared to take this class because I haven’t taken ICS 314 yet, but I’m glad I did because I learned a lot this semester, especially about the importance of teamwork and communication.
