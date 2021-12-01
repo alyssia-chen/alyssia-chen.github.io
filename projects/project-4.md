@@ -6,7 +6,7 @@ image: images/ICS491WahiLanding.png
 title: Hawaii Annual Coding Challenge - Wahi
 permalink: projects/wahi
 # All dates must be YYYY-MM-DD format!
-date: 2021-11-31
+date: 2021-11-30
 labels:
   - ICS 491
   - Meteor
