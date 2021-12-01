@@ -22,15 +22,15 @@ HMAR and NIC currently have a system where public beachgoers call a hotline to r
 
 Once they submit the form, it will be added to the application’s database and will be accessible by HMAR volunteers on the Wahi website. On this website, HMAR volunteers have several views. 
 The left view displays all of the reports (which can be filtered) and allows for volunteers to confirm whether a report is legitimate. The right view displays sightings that the algorithm we wrote found were related. Here, volunteers can confirm or deny whether these reports are indeed related.
-</br>
+<br/>
 <img class="ui left floated rounded image" width="45%" src="../images/ICS491WahiList.png">
 <img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiConfirm.png">
-</br>
+<br/>
 On the bottom left, this view allows the volunteers to view the reports on a map. The view on the right has buttons that the volunteers can press in order to download a csv file with all of the reports (per animal) that is formatted in a way that is compatible with the spreadsheet HMAR and NIC currently use.
-</br>
+<br/>
 <img class="ui left floated rounded image" width="45%" src="../images/ICS491WahiMap.png">
 <img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiExport.png">
-</br>
+<br/>
 ## Links to the source code (and deployed application)
  - [Source code](https://github.com/HACC2021/DAAJ)
  - [Deployment](https://daaj.meteorapp.com/)
