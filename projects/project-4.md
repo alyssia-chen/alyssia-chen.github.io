@@ -25,21 +25,16 @@ The left view displays all of the reports (which can be filtered) and allows for
 
 <img class="ui left floated rounded image" width="45%" src="../images/ICS491WahiList.png">
 <img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiConfirm.png">
-
-
-
+<br/>
 Below on the left, this view allows the volunteers to view the reports on a map. The view on the right has buttons that the volunteers can press in order to download a csv file with all of the reports (per animal) that is formatted in a way that is compatible with the spreadsheet HMAR and NIC currently use. 
 <img class="ui left floated rounded image" width="45%" src="../images/ICS491WahiMap.png">
 <img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiExport.png">
-
-
+<br/>
 
 ## Links to the source code (and deployed application)
  - [Source code](https://github.com/HACC2021/DAAJ)
  - [Deployment](https://daaj.meteorapp.com/)
  - [Devpost](https://devpost.com/software/daaj)
-
-<img class="ui floated rounded image" width="60%" src="../images/ICS491WahiLanding.png">
 
 ## What I learned from the experience
 From the get-go, the biggest problem we had was making sure everyone could run the meteor + react-native application on their machine. It was actually quite interesting to learn how to connect the two! However, almost everyone on our team had never worked on making a mobile app so we had to go through a few hurdles (someone’s PATH variable may or may not have been broken; dependency issues) before we could actually start developing. Thankfully, we worked on this as soon as the HACC began so in that regard, I can definitely acknowledge the strength in starting early. The biggest things that threw me off with this tech stack were how meteor collections were designed and how collections were received on each page.
