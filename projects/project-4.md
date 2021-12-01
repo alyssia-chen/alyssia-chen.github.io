@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/ICS491WahiExport.png
+image: images/ICS491WahiLanding.png
 title: Hawaii Annual Coding Challenge - Wahi
 permalink: projects/wahi
 # All dates must be YYYY-MM-DD format!
@@ -18,11 +18,15 @@ summary: A web and mobile application to help HMAR and NIC with improving the ef
 
 ## Description of the application developed
 HMAR and NIC currently have a system where public beachgoers call a hotline to report marine life sightings regarding seals, turtles, and sea birds. While this system does work, for this hackathon challenge, we were tasked to help HMAR and NIC solve some issues they currently face (e.g.  callers not knowing the location name, poor audio near the ocean, lack of photo-gathering capabilities, multiple calls per animal that isn’t consolidated into one report). Wahi is the application [Jolie](https://jolieching.github.io/), [Dylan](https://dylandecker.github.io/projects/), [Mirabela](https://miraabela.github.io/), [Abdullah](https://mujtaba-a-quadri.github.io/), and I developed from October 23rd to November 20th. Specifically, Wahi is a two-part application that includes a mobile side and web side. Essentially, public beachgoers will use the phone app we designed to fill out a form that records information and pictures about the animal and the user’s location. 
+<img class="ui centered floated rounded image" width="60%" src="../images/ICS491WahiMobileLanding.png">
 
 Once they submit the form, it will be added to the application’s database and will be accessible by HMAR volunteers on the Wahi website. On this website, HMAR volunteers have several views. 
 The left view displays all of the reports (which can be filtered) and allows for volunteers to confirm whether a report is legitimate. The right view displays sightings that the algorithm we wrote found were related. Here, volunteers can confirm or deny whether these reports are indeed related. 
+
 <img class="ui left floated rounded image" width="45%" src="../images/ICS491WahiList.png">
 <img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiConfirm.png">
+
+
 Below on the left, this view allows the volunteers to view the reports on a map. The view on the right has buttons that the volunteers can press in order to download a csv file with all of the reports (per animal) that is formatted in a way that is compatible with the spreadsheet HMAR and NIC currently use. 
 <img class="ui left floated rounded image" width="45%" src="../images/ICS491WahiMap.png">
 <img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiExport.png">
@@ -45,6 +49,8 @@ Additionally, I found out that semantic ui actually has an automatic table filte
 
 ## What I personally contributed to the project
 We had a bit of a difficult time choosing which challenge to do, but once we decided on the marine-sighting challenge, I practiced my requirements gathering skill. I read everything that was posted about this challenge and made sure to ask questions during their sessions. For example, we asked whether they wanted the ability to create multiple accounts or did they just want one account for their entire organization. Once we found out that they wanted one, we focused less on accounts. Next, I worked with Mirabela to get the Meteor and React-native stack to work. As a team, we were initially considering the possibility of using Cordova, but we decided that a mobile app could be beneficial to the public because of its more integrated interface. I also worked on the mockups of the web application and here’s also a mockup of the mobile app that I designed but unfortunately we ran out of time to implement it. 
+
+<img class="ui right floated rounded image" width="45%" src="../images/ICS491WahiMobileMockup.png">
 
 For this challenge, I also designed the collections and found it to be a pretty daunting task, namely because each animal had a lot of fields and many of them were unique to each animal. There were a good bunch of fields that were common to all animals but some had different column names per animal so that took some time to parse too. Additionally, I had to make sure to have common fields have the same name between collections so that when we used a spread to merge all 4 collections, they would line up correctly. After I finished the collections, I then worked on seeding (as mentioned above). During the seeding process, I also designed a handy dandy function that returns a Date object that is minutes or hours of your choice before or after the time the function is called. 
 
