@@ -23,19 +23,19 @@ Using what we learned during the course of this class (ITM 352), we had to build
  - [Source code](https://github.com/alyssia-chen/ITM352_F21_repo/tree/main/Chen_Alyssia_Assignment3) (Currently private but can be shown upon request)
 
 ## Pictures
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Landing.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_AllDisplay.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Product1.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Product2.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Product3.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Product4.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Landing.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_AllDisplay.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Product1.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Product2.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Product3.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Product4.png">
 
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Cart.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Invoice.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Email.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Register.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Login.png">
-<img class="ui right floated rounded image" width="45%" src="../images/ITM352Assignment3_Admin.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Cart.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Invoice.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Email.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Register.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Login.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Admin.png">
 
 
 
