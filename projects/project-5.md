@@ -19,8 +19,9 @@ summary: An e-commerce website that sells plants (mainly flowers).
 ## Description of the application developed
 Using what we learned during the course of this class (ITM 352), we had to build a pretend e-commerce website. The website had to meet a set of requirements, including a cart that users can edit, an email with the invoice that is sent to the user, and the use of sessions/cookies to maintain personalization.
 
-## Links to the source code (and deployed application)
+## Links
  - [Source code](https://github.com/alyssia-chen/ITM352_F21_repo/tree/main/Chen_Alyssia_Assignment3) (Currently private but can be shown upon request)
+ - [Brief Video Overview](https://drive.google.com/file/d/1gD3T8P_z3mdMaAVRqeU4ofFGNEvyoIu9/view?usp=sharing)
 
 ## Pictures
 <img class="ui right floated rounded image" width="100%" src="../images/ITM352Assignment3_Landing.png">
