@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Introducing Myself
+title: A little bit about me
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-25
 labels:
