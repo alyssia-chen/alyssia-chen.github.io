@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: E1: UI Basics Technical Essay
+title: Why isn't anything changing??
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-08
 labels:
