@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/EE491FStellation_HubFull.png
-title: Stellation: Class availability
+title: Stellation
 permalink: projects/stellation
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-01
