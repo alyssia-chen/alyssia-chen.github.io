@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Wait up for me! 
+title: Wait up for me, Javascript! 
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
