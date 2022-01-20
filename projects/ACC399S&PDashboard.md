@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/ACC399_Dashboard.png
+image: images/ACC399_DashboardCut.png
 title: S&P 500 Interactive Dashboard
 permalink: projects/stellation
 # All dates must be YYYY-MM-DD format!
