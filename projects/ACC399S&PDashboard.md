@@ -18,8 +18,8 @@ Upon opening the excel workbook, the user will be able to see an interactive das
 
 ## Pictures
 <img class="ui right floated rounded image" width="100%" src="../images/ACC399_DashboardCut.png">
-<img class="ui right floated rounded image" width="100%" src="../images/ACC399_DashboardFiltered.png">
-<img class="ui right floated rounded image" width="100%" src="../images/ACC399_Filter.png">
+<img class="ui right floated rounded image" width="45%" src="../images/ACC399_Filter.png">
+<img class="ui right floated rounded image" width="45%" src="../images/ACC399_DashboardFiltered.png">
 
 ## What I personally contributed to the project
 For this project, I worked with another person in the class (ACC 399 - Data Analytics) who is an Accounting PhD student. She found the data and made preliminary charts. Additionally, at the time I had no accounting experience, so she taught me how to calculate certain measures. I put things together by coding the data (dividing it into industries), creating more charts, and building the dashboard.
