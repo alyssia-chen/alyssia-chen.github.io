@@ -16,6 +16,11 @@ summary: My partner and I developed an interactive dashboard that helps users ex
 ## Description of the application developed
 Upon opening the excel workbook, the user will be able to see an interactive dashboard that uses data from S&P 500 companies from 2012-2018. On the right, there are different charts with different accounting measures (e.g. DuPont Ratio analysis, ROE, Revenue, etc). On the left, there are slicers that the user can use to filter the data in order to drill down to more specific visualizations. Through this dashboard, users will be able to dynamically interact with the S&P 500 data.
 
+## Pictures
+<img class="ui right floated rounded image" width="100%" src="../images/ACC399_DashboardCut.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ACC399_DashboardFiltered.png">
+<img class="ui right floated rounded image" width="100%" src="../images/ACC399_Filter.png">
+
 ## What I personally contributed to the project
 For this project, I worked with another person in the class (ACC 399 - Data Analytics) who is an Accounting PhD student. She found the data and made preliminary charts. Additionally, at the time I had no accounting experience, so she taught me how to calculate certain measures. I put things together by coding the data (dividing it into industries), creating more charts, and building the dashboard.
 
