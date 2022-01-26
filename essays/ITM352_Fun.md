@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: That was so fun!
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-16
