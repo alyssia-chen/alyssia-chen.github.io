@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Putting it all together
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-21
