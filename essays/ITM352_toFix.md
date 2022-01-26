@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: toFix or not toFix
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-26
