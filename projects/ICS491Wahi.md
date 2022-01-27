@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/ICS491WahiLanding.png
+image: images/ICS491WahiLanding_Square.png
 title: Hawaii Annual Coding Challenge - Wahi
 permalink: projects/wahi
 # All dates must be YYYY-MM-DD format!
