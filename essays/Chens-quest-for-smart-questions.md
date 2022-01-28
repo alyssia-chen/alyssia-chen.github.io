@@ -51,4 +51,4 @@ At the end of the day, it can be easy to talk about what makes a smart question,
 
 To me, questions help you bridge and solidify your knowledge, so improving this skill can help you learn more effectively. 
 
-*Sidenote: if you didn’t get the joke in the title, try saying “Chen’s Quest” but in reverse order*
+*Sidenote: In case you didn’t get the joke in the title, try saying “Chen’s Quest” but in reverse order*
