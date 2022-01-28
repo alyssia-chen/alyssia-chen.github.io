@@ -31,7 +31,7 @@ My prior experience with building websites was mostly with Meteor so there was d
 <img class="ui right floated rounded image" width="47%" src="../images/ITM352Assignment3_Product1.png">
 <img class="ui left floated rounded image" width="47%" src="../images/ITM352Assignment3_Product2.png">
 <img class="ui right floated rounded image" width="47%" src="../images/ITM352Assignment3_Product3.png">
-
+--
 <img class="ui left floated rounded image" width="47%" src="../images/ITM352Assignment3_Cart.png">
 <img class="ui right floated rounded image" width="47%" src="../images/ITM352Assignment3_Invoice.png">
 <img class="ui left floated rounded image" width="47%" src="../images/ITM352Assignment3_Email.png">
