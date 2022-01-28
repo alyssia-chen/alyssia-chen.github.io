@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/ICS491ProxamieLanding_Square.png
+image: images/ICS491ProxamieLanding_Square2.png
 title: Meteor Hackathon - Proxamie
 permalink: projects/proxamie
 # All dates must be YYYY-MM-DD format!

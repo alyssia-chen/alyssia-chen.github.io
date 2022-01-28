@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/ACC399_DashboardCut_Square.png
+image: images/ACC399_DashboardCut_Square2.png
 title: S&P 500 Interactive Dashboard
 permalink: projects/s&pdashboard
 # All dates must be YYYY-MM-DD format!
