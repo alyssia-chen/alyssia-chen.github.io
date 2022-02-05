@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/EE491FStellation_HubFull_Square3.png
+image: images/EE491FStellation_HubFull_Square.png
 title: Stellation (Class availability tracker)
 permalink: projects/stellation
 # All dates must be YYYY-MM-DD format!
