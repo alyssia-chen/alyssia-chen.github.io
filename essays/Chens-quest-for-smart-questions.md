@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Chen’s Quest for Smart Questions
+title: Chen’s quest for smart questions
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-27
 labels:
