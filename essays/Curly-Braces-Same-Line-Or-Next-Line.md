@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Work in progress
+title: Curly braces on the same line or next line?
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-10
 labels:
