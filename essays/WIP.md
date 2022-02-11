@@ -9,11 +9,11 @@ labels:
   - ICS 314
 ---
 ## Ask me about my calendar
-<img class="ui right floated rounded image" width="45%" src="../images/semesterFolders.png">
-<img class="ui right floated rounded image" width="45%" src="../images/semesterFolder.png">
 Have you ever looked at a piece of code and just thought it’s so pretty from a purely aesthetic view? The indentations are in the correct places, the comments break up the code nicely, and the length of the lines are just perfect. Well, when I first started coding in ICS 111 (Introduction to Intro to Computer Science I), one thing that I really loved doing was making the code look “pretty”. I thoroughly enjoyed organizing the code to not only be logically structured but also aesthetically pleasing. In fact, I’m kind of an organization fanatic when it comes to digital things. As you can see in the photos below of my Google Drive, organizing, especially with colors, is my jam. So coding provides me with another medium to fiddle my organization techniques with.
-
-
+--
+<img class="ui right floated rounded image" width="45%" src="../images/semesterFolders.png">
+--
+<img class="ui right floated rounded image" width="45%" src="../images/semesterFolder.png">
 
 
 ## Codifying how to code
