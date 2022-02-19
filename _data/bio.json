@@ -6,7 +6,7 @@
     "email": "abc8@hawaii.edu",
     "phone": "808-585-1512",
     "website": "https://alyssia-chen.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences and for a B.B.A in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences and for a B.B.A in Marketing at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -76,6 +76,11 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
+        "ICS 111 - Java Programming",
+        "ICS 141/241 - Discrete Mathematics I & II",
+        "ICS 211 - Data Structures",
+        "ICS 212 - Program Structure",
+        "ICS 491 - Special Topics"
       ]
     },
     {
@@ -86,6 +91,16 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
+        "BUS 209 - Written Communication in Business",
+        "BUS 310 - 	Statistical Analysis for Business Decisions",
+        "BUS 311 - Information Systems for Global Business Environments",
+        "BUS 312 - Principles of Marketing",
+        "BUS 313 - Economics & Finanical Environment of Global Business",
+        "BUS 315 - Global Management & Organizational Behavior",
+        "ACC 200/210 - Introduction to Accounting I & II",
+        "BLAW 200 - Legal Environment of Business",
+        "COMG 251 - Principles of Efficient Public Speaking",
+        "ICS 101 - Tools for the Information World"
       ]
     }
   ],
