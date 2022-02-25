@@ -4,7 +4,7 @@ type: essay
 published: true
 title: Nothing much, just cooking up some frontend
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-27
+date: 2022-02-24
 labels:
   - ICS 314
   - Semantic UI
