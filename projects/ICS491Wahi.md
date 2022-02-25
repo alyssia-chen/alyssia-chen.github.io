@@ -29,6 +29,7 @@ On this website, HMAR volunteers have several views. In the images below, the to
 
 __
 
+
 On the bottom left, this view allows the volunteers to view the reports on a map. The view on the bottom right has buttons that the volunteers can press in order to download a csv file with all of the reports (per animal) that is formatted in a way that is compatible with the spreadsheet HMAR and NIC currently use.
 
 ## Links to the source code (and deployed application)
