@@ -31,4 +31,5 @@ One of the tasks we had to do for class was find a webpage to rebuild using Sema
 
 --
 
+
 At the end of the day, I still think it’s important to practice raw html and css because UI frameworks hide a lot of intricate details about html and css. Additionally, UI frameworks won’t be able to meet every look you want and you’ll eventually run into a situation that requires more customization. In other words, if I want to create a never-seen-before dumpling, I can’t just buy it from the store—I will have to make it (or at least parts of it) from scratch. 
