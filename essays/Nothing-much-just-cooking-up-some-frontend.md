@@ -24,12 +24,15 @@ Semantic UI not only speeds up the development process, but can also make the en
 ## Crab and Imitation Crab
 One of the tasks we had to do for class was find a webpage to rebuild using Semantic UI. At first I was dreading this assignment because I could only recall how long it took to make anything pretty using html and css. In fact, I’m very particular about how things look on a webpage, so I can spend hours making everything line up exactly how I want it to. However, creating this webpage surprisingly took less time than I thought. Here are the results:
 <div class= “ui two wide column”>
-<div class= “ui column”> 
-	<img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_original1.png">
+    <div class= “ui column”> 
+        <img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_original1.png">
+        <img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_original2.png">
+    </div>
+    <div class= “ui column”> 
+        <img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_knockoff1.png">
+        <img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_knockoff2.png">
+    </div>
 </div>
-<div class= “ui column”> 
-	<img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_knockoff1.png">
-</div>
-</div>
+
 
 At the end of the day, I still think it’s important to practice raw html and css because UI frameworks hide a lot of intricate details about html and css. Additionally, UI frameworks won’t be able to meet every look you want and you’ll eventually run into a situation that requires more customization. In other words, if I want to create a never-seen-before dumpling, I can’t just buy it from the store—I will have to make it (or at least parts of it) from scratch. 
