@@ -23,12 +23,12 @@ Semantic UI not only speeds up the development process, but can also make the en
 
 ## Crab and Imitation Crab
 One of the tasks we had to do for class was find a webpage to rebuild using Semantic UI. At first I was dreading this assignment because I could only recall how long it took to make anything pretty using html and css. In fact, I’m very particular about how things look on a webpage, so I can spend hours making everything line up exactly how I want it to. However, creating this webpage surprisingly took less time than I thought. Here are the results:
-<div class= “ui two wide column”>
-    <div class= “ui column”> 
+<div class= "ui two wide column">
+    <div class= "ui column"> 
         <img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_original1.png">
         <img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_original2.png">
     </div>
-    <div class= “ui column”> 
+    <div class= "ui column"> 
         <img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_knockoff1.png">
         <img class="ui right floated rounded image" width="45%" src="../images/ICS314_SemanticUI_knockoff2.png">
     </div>
