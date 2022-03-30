@@ -7,7 +7,7 @@ labels:
 - Software Engineering
 - Meteor
 ---
-_In collaboration with Devin, Timothy, and Grayson_
+_In collaboration with [Devin](https://darquines.github.io/), [Timothy](https://timothyro.github.io/), and [Grayson](https://glevy94.github.io/)_
 # Overview
 _The problem:_ When college students register for classes, they may not know what classes to take at the same time or what classes to take in general. Although advisors and colleges provide sample pathways, they may not be the most straightforward or are too general for students who aren't familiar with the classes. Students often rely on their peers to get advice on which combination of classes to take and which to avoid, but as a freshman you don't know that many people and as a older college student, there are less people that have taken those classes that you can ask advice for (aka because they've graduated).
 
