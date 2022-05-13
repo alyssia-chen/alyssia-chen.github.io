@@ -2,13 +2,15 @@
 layout: project
 type: project
 published: true
-image: images/ICS491COVIDTracker_Square.png
-title: COVID Tracker
-permalink: projects/covidtracker
-date: 2021-10-14
+image: images/ICS314WarriorRideBuddies_Square.png
+title: Warrior Ride Buddies
+permalink: projects/warriorridebuddies
+date: 2021-05-12
 labels:
-  - ICS 491
+  - ICS 314
   - Meteor
+  - React
+  - Javascript
 summary: My team developed a web application that tracks users' COVID status over time and allows them to keep their vaccination record in the application. 
 ---
 
