@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/ITM352Assignment3_Landing_Square2.png
-title: ITM 352 Final Project - Flora's Flora
+title: Flora's Flora
 permalink: projects/floras
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-15
