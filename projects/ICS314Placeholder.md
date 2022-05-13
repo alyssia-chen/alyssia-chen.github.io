@@ -2,18 +2,14 @@
 layout: project
 type: project
 published: true
-image: images/ICS314WarriorRideBuddies_Square.png
-title: Warrior Ride Buddies
-permalink: projects/warriorridebuddies
-# All dates must be YYYY-MM-DD format!
-date: 2021-05-12
+image: images/ICS491COVIDTracker_Square.png
+title: COVID Tracker
+permalink: projects/covidtracker
+date: 2021-10-14
 labels:
-- Software Engineering
-- ICS 314
-- Meteor
-- React
-- Javascript
-  summary: My teammates and I developed a web application that helps students organize car pools to and from University of Hawaii.
+  - ICS 491
+  - Meteor
+summary: My team developed a web application that tracks users' COVID status over time and allows them to keep their vaccination record in the application. 
 ---
 
 ## Overview of the project
@@ -36,3 +32,4 @@ What I loved learning about the most was finally understanding React. If you’v
 - [Source code](https://github.com/warrior-ride-buddies/warrior-ride-buddies)
 - [Deployment](https://warriorridebuddies.ddns.net/)
 - [More details](https://devpost.com/software/daaj)
+
