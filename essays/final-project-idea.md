@@ -6,6 +6,7 @@ date: 2022-03-29
 labels:
 - Software Engineering
 - Meteor
+- ICS 314
 ---
 _In collaboration with [Devin](https://darquines.github.io/), [Timothy](https://timothyro.github.io/), and [Grayson](https://glevy94.github.io/)_
 # Overview
