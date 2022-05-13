@@ -1,16 +1,20 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
+published: true
+image: images/ICS314WarriorRideBuddies_Square.png
 title: Warrior Ride Buddies
-date: 2022-05-12
+permalink: projects/warriorridebuddies
+# All dates must be YYYY-MM-DD format!
+date: 2021-05-12
 labels:
 - Software Engineering
 - ICS 314
 - Meteor
 - React
 - Javascript
+  summary: An e-commerce website that sells plants (mainly flowers).
 ---
-
 ## Overview of the project
 Warrior Ride Buddies is an application to help University of Hawaii at Manoa students get to and from campus through the use of carpools. Because of Hawaii's heavy traffic and because of how hard/expensive parking is, carpooling is a very viable option. Once in the application, users can easily find other users that live in their area by utilizing the map feature and filtering by time and driver/rider. After finding a suitable carpool opportunity, our application also allows users to directly message people through the app to arrange carpools.
 <img class="ui small right floated rounded image" src="../images/ICS314WarriorRideBuddies_Landing.png">
