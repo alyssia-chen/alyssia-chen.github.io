@@ -25,5 +25,5 @@ Functional programming is another concept that I found really, really cool to le
 This library allows us to manipulate arrays or objects by calling different functions (one of my favorites being "pluck" because it sounds like you're plucking fruit) and providing functions to be run over the data you provide. One of our professor's top 3 underscore functions is "map" because of how flexible/all-encompassing(?) it can be. For example, in a less "codey" way to describe it. We could give the map function 3 puppies and a function like "grow" and in turn the map function will return 3 grown puppies! What's snazzy about all this is that the map function didn't need to know what it was iterating over; it's designed to be that flexible!
 
 ## while (SoftwareEngineerSkills < 100)
-This was one of the most educational classes I've taken because every module is critical piece to help with the final project. Learning React was definitely one of the most exciting things for me and I'm excited to keep learning more about it and to build more applications. 
+This was one of the most educational classes I've taken because every module was critical to creating the final project. Learning React was definitely one of the most exciting things for me and I'm excited to keep learning more about it and to build more applications!
 
