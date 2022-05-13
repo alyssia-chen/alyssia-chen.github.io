@@ -6,7 +6,7 @@ image: images/ICS314WarriorRideBuddies_Square.png
 title: Warrior Ride Buddies
 permalink: projects/warriorridebuddies
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-12
+date: 2022-05-12
 labels:
 - Software Engineering
 - ICS 314
