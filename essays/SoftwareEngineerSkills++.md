@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "SoftwareEngineeringSkills++"
+title: "SoftwareEngineerSkills++"
 date: 2022-05-13
 labels:
 - Software Engineering
@@ -9,6 +9,9 @@ labels:
 - Git
 - ICS 314
 ---
+## First Software Engineering Class Done!
+Months before I took ICS 314 (a software engineering course at the University of Hawaii), I had heard stories about how time-consuming it can be and how there would be WODS (hands-on quizzes) every week that would be all-or-nothing. To be frank, I was quite scared to take this class. However the semester before, I actually participated in hackathons that essentially used the tech stack taught in this class. So armed with some rudimentary knowledge of Meteor, React, and MongoDb, I’ve discovered that learning these concepts in modules this semester has really helped me solidify what I learned. In fact, although those hackathons were brutal because I had to learn a lot on my own, I felt like I could learn a lot better in this class, because not everything was entirely new to me. There are some of the topics I particularly enjoyed learning about in this course (and I think can be used outside of web applications: Configuration Management and Functional Programming.
+
 ## Configuration Management
 In this module, we mainly learned about version control. Specifically, we used git. In case you haven't heard about these concepts before, version control essentially helps keep track of changes and can be extremely beneficial for group work because it helps teams keep in order and not step over each others' toes. What makes git special is that other version controls may have one "truth" and other people can grab the truth to edit, whereas git allows everyone to store "truth" on their computers and exchange with other people as needed. I may not have explained that as well as I'd liked, so definitely check out this [video](https://www.youtube.com/watch?v=Xvx753zTZHE&feature=emb_title) by my professor.
 
