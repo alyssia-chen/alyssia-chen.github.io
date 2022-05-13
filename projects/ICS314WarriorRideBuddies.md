@@ -5,7 +5,7 @@ published: true
 image: images/ICS314WarriorRideBuddies_Square2.png
 title: Warrior Ride Buddies
 permalink: projects/warriorridebuddies
-date: 2021-05-12
+date: 2022-05-12
 labels:
   - ICS 314
   - Meteor
@@ -22,7 +22,7 @@ Warrior Ride Buddies is an application to help University of Hawaii at Manoa stu
 - [Source code](https://github.com/warrior-ride-buddies/warrior-ride-buddies)
 - [Deployment](https://warriorridebuddies.ddns.net/)
 - [More details](https://devpost.com/software/daaj)
-- 
+
 ## My contributions
 <img class="ui medium left floated rounded image" src="../images/ICS314WarriorRideBuddies_Map.png">
 The first two things I worked on was the landing page and the main page layout. It was fun to finally create pages in Meteor that weren’t just for practice, and to get feedback on it from my teammates. The most interesting part to figure out were the filters though. One struggle I ran into was that some filters had different ways they activated “events.” In other words, I had to make a different function for filters that reported that they were changed. However, I did find that as long as I provided a string that represented which filter was changed, I could easily use one function to handle the changes in the data. Lastly, I worked on the form for creating and editing trips (aka what day and when you’ll leave or arrive in UH) and the uploading of images into the collection (using uploadcare).
