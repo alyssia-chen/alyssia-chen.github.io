@@ -10,6 +10,8 @@ labels:
 - ICS 314
 ---
 ## First Software Engineering Class Done!
+
+<img class="ui small right floated rounded image" src="../images/ICS314MeteorReact.png">
 Months before I took ICS 314 (a software engineering course at the University of Hawaii), I had heard stories about how time-consuming it can be and how there would be WODS (hands-on quizzes) every week that would be all-or-nothing. To be frank, I was quite scared to take this class. However the semester before, I actually participated in hackathons that essentially used the tech stack taught in this class. So armed with some rudimentary knowledge (nothing like the pressure of building something within a week) of Meteor, React, and MongoDb, I’ve discovered that relearning these concepts in modules this semester has really helped me solidify what I learned on my own. In fact, although those hackathons were brutal because I had to learn a lot on my own, I felt like I could learn a lot better in this class because not everything was entirely new to me. There are some of the topics I particularly enjoyed learning about (and I think can be used outside of web applications) in this course: Configuration Management and Functional Programming.
 
 ## Configuration Management
@@ -22,6 +24,7 @@ In fact, after I formally learned about git, I practically told all of my family
 ## Functional programming
 Functional programming is another concept that I found really, really cool to learn about. I had read about it in books, but I had never actually learned what it meant. It is essentially programming that allows functions to be passed around and used just like any other data type. There are other aspects of functional programming (e.g. shared state and mutable data), and after what we've learned so far about it, I definitely can't wait to learn more. What we used to learn functional programming was the library [underscore.js](http://underscorejs.org/).
 
+<img class="ui medium right floated rounded image" src="../images/ICS314DogGrowing.jpeg">
 This library allows us to manipulate arrays or objects by calling different functions (one of my favorites being "pluck" because it sounds like you're plucking fruit) and providing functions to be run over the data you provide. One of our professor's top 3 underscore functions is "map" because of how powerful it can be. For example, here's a less "codey" way to describe it. We could give the map function 3 puppies and a function like "grow" and in turn the map function will return 3 grown puppies! What's snazzy about all this is that the map function didn't need to know what it was iterating over; it's designed to just be that flexible! This kind of thinking can be applied to any computer science thing because of how modular it can make your code. 
 
 ## while (SoftwareEngineerSkills < 100)
