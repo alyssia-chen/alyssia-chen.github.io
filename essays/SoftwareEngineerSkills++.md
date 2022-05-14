@@ -11,7 +11,7 @@ labels:
 ---
 ## First Software Engineering Class Done!
 
-<img class="ui small right floated rounded image" src="../images/ICS314MeteorReact.png">
+<img class="ui medium left floated rounded image" src="../images/ICS314MeteorReact.png">
 Months before I took ICS 314 (a software engineering course at the University of Hawaii), I had heard stories about how time-consuming it can be and how there would be WODS (hands-on quizzes) every week that would be all-or-nothing. To be frank, I was quite scared to take this class. However the semester before, I actually participated in hackathons that essentially used the tech stack taught in this class. So armed with some rudimentary knowledge (nothing like the pressure of building something within a week) of Meteor, React, and MongoDb, I’ve discovered that relearning these concepts in modules this semester has really helped me solidify what I learned on my own. In fact, although those hackathons were brutal because I had to learn a lot on my own, I felt like I could learn a lot better in this class because not everything was entirely new to me. There are some of the topics I particularly enjoyed learning about (and I think can be used outside of web applications) in this course: Configuration Management and Functional Programming.
 
 ## Configuration Management
