@@ -121,11 +121,22 @@
   ],
   "work": [
     {
+      "company": "Laboratory for Advanced Visualization & Applications (LAVA)",
+      "position": "Student Research Assistant",
+      "website": "https://www.lavaflow.info/",
+      "startDate": "2022-06-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "NSF-funded position"
+      ]
+    },
+    {
       "company": "Department of Taxation",
       "position": "Student Intern",
       "website": "https://tax.hawaii.gov/",
       "startDate": "2021-08-23",
-      "endDate": "Present",
+      "endDate": "2022-05-31",
       "summary": "",
       "highlights": [
         "Use C# to build a tool that can create xml files that adheres to federal and state-given schemas",
@@ -164,7 +175,7 @@
   "awards": [
     {
       "title": "Dean's list",
-      "date": "2019-2021",
+      "date": "2019-2022",
       "awarder": "University of Hawaii",
       "summary": "Special recognition awarded to students with a minimum GPA of 3.5."
     },
