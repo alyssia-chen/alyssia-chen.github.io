@@ -20,7 +20,7 @@ Warrior Ride Buddies is an application to help University of Hawaii at Manoa stu
 
 ## Links
 - [Source code](https://github.com/warrior-ride-buddies/warrior-ride-buddies)
-- [Deployment](https://warriorridebuddies.ddns.net/)
+- [Deployment](https://test.warriorridebuddies.meteorapp.com/#/)
 - [More details](https://devpost.com/software/daaj)
 
 ## My contributions
