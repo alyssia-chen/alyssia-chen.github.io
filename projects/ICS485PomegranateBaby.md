@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/ICS485PomegranateBaby_Square.png
-title: Pomegranate Baby
+title: Pomegranate Baby (Site WIP)
 permalink: projects/pomegranatebaby
 date: 2022-02-16
 labels:

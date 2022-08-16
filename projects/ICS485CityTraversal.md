@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/ICS485CityTraversal_Square.png
-title: City Traversal
+title: City Traversal (Site WIP)
 permalink: projects/citytraversal
 date: 2022-05-11
 labels:
