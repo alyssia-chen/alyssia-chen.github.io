@@ -20,7 +20,7 @@ City Traversal is a game that challenges the player to use a crane to transport 
 My two teammates and I created this game using Unity and Blender for our final game design project.
 
 <img class="ui left floated rounded image" width="47%" src="../images/ICS485CityTraversal_ProfileViewDemoLayout.png">
-<img class="ui right floated rounded image" width="47%" src="../images/ICS485CityTraversal_StatueLand.png.png">
+<img class="ui right floated rounded image" width="47%" src="../images/ICS485CityTraversal_StatueLand.png">
 
 # Links
  - [Deployment](https://chakhon.itch.io/city-traversal)
