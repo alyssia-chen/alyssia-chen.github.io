@@ -18,6 +18,10 @@ What happens when an artist sculpts a clay baby with the heart of a pomegranate 
 
 Created for my game design class, I made a game (my first game ever!) using Unity.
 
+<img class="ui left floated rounded image" width="30%" src="../images/ICS485PomegranateBaby_Young.png">
+<img class="ui right floated rounded image" width="30%" src="../images/ICS485PomegranateBaby_FullyGrown.png">
+<img class="ui left floated rounded image" width="30%" src="../images/ICS485PomegranateBaby_Flowering.png">
+
 # Links
 [Source code](https://github.com/alyssia-chen/Pomegranate-Baby)
 [Deployment](https://alyssiachen.itch.io/pomegranate-baby) <- Unfortunately, mouse sensitivity got a bit cranked up on itch.io
