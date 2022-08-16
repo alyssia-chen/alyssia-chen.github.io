@@ -19,9 +19,12 @@ City Traversal is a game that challenges the player to use a crane to transport 
 
 My two teammates and I created this game using Unity and Blender for our final game design project.
 
+<img class="ui left floated rounded image" width="47%" src="../images/ICS485CityTraversal_ProfileViewDemoLayout.png">
+<img class="ui right floated rounded image" width="47%" src="../images/ICS485CityTraversal_StatueLand.png.png">
+
 # Links
-[Deployment](https://chakhon.itch.io/city-traversal)
-[More details (website created by the team)](https://sites.google.com/hawaii.edu/city-traversal)
+ - [Deployment](https://chakhon.itch.io/city-traversal)
+ - [More details (website created by the team)](https://sites.google.com/hawaii.edu/city-traversal)
 
 # My contributions
 For our demo, the first thing I worked on was creating the destructible item class. This class essentially made things fall apart once they were hit with enough force. Next, I worked on the preliminary UI system which allowed the user to see themselves timed and to gain/lose points. Additionally, before the demo, I created a tree in Blender and worked on the sound design with my brother. Since we had a variety of objects, we needed quite an assortment of sounds. Lastly, I created the mechanism to detect when the player has landed the statue on its designated platform.

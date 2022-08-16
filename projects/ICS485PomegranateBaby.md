@@ -23,8 +23,8 @@ Created for my game design class, I made a game (my first game ever!) using Unit
 <img class="ui left floated rounded image" width="30%" src="../images/ICS485PomegranateBaby_Flowering.png">
 
 # Links
-[Source code](https://github.com/alyssia-chen/Pomegranate-Baby)
-[Deployment](https://alyssiachen.itch.io/pomegranate-baby) <- Unfortunately, mouse sensitivity got a bit cranked up on itch.io
+ - [Source code](https://github.com/alyssia-chen/Pomegranate-Baby)
+ - [Deployment](https://alyssiachen.itch.io/pomegranate-baby) <- Unfortunately, mouse sensitivity got a bit cranked up on itch.io
 
 # My contributions
 A few weeks before our solo game project was due, I recalled an old Chinese folk story my told me. It was simple, heartwarming, and I realized that it would be a perfect "hook" for my game. As I thought through the story, details about how I could design the game to help me tell the tale came to me very quickly.
