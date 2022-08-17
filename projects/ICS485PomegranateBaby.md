@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/ICS485PomegranateBaby_Square.png
+image: images/ICS485PomegranateBaby_Square2.png
 title: Pomegranate Baby (Site WIP)
 permalink: projects/pomegranatebaby
 date: 2022-02-16
@@ -17,11 +17,11 @@ summary: I developed a Unity archery game that reveals parts of a Chinese folk s
 What happens when an artist sculpts a clay baby with the heart of a pomegranate seed? As you progress through the game, scenes of this story are revealed. However, each level of the game (timed archery) gets increasingly difficult. Can you figure out what happened to Pomegranate Baby?
 
 Created for my game design class, I made a game (my first game ever!) using Unity.
-
-<img class="ui rounded image" width="30%" src="../images/ICS485PomegranateBaby_Young.png">
-<img class="ui rounded image" width="30%" src="../images/ICS485PomegranateBaby_FullyGrown.png">
-<img class="ui rounded image" width="30%" src="../images/ICS485PomegranateBaby_Flowering.png">
-
+<div>
+    <img class="ui rounded image" width="30%" src="../images/ICS485PomegranateBaby_Young.png">
+    <img class="ui rounded image" width="30%" src="../images/ICS485PomegranateBaby_FullyGrown.png">
+    <img class="ui rounded image" width="30%" src="../images/ICS485PomegranateBaby_Flowering.png">
+</div>
 # Links
  - [Source code](https://github.com/alyssia-chen/Pomegranate-Baby)
  - [Deployment](https://alyssiachen.itch.io/pomegranate-baby) <- Unfortunately, mouse sensitivity got a bit cranked up on itch.io
