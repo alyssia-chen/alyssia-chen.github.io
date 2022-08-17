@@ -22,6 +22,9 @@ My two teammates and I created this game using Unity and Blender for our final g
 <img class="ui left floated rounded image" width="47%" src="../images/ICS485CityTraversal_ProfileViewDemoLayout.png">
 <img class="ui right floated rounded image" width="47%" src="../images/ICS485CityTraversal_StatueLand.png">
 
+__
+
+
 # Links
  - [Deployment](https://chakhon.itch.io/city-traversal)
  - [More details (website created by the team)](https://sites.google.com/hawaii.edu/city-traversal)
