@@ -36,7 +36,7 @@ I also realized again how working from the basics first (e.g. using cubes to rep
 
 Lastly, I learned about how important it is to have a “hook/pull” in a game. I had only thought the story I was telling was the hook, but my professor also told me that revealing each stage of the plant’s growth also generates interest. It was an angle I hadn't considered and has made me more aware of recognizing the “hooks” of a game.
 <p>
-    <img class="ui left floated rounded image" width="30%" src="../images/ICS485PomegranateBaby_Young.png">
-    <img class="ui left floated rounded image" width="30%" src="../images/ICS485PomegranateBaby_FullyGrown.png">
-    <img class="ui left floated rounded image" width="30%" src="../images/ICS485PomegranateBaby_Flowering.png">
+    <img class="ui left floated rounded image" width="31%" src="../images/ICS485PomegranateBaby_Young.png">
+    <img class="ui left floated rounded image" width="31%" src="../images/ICS485PomegranateBaby_FullyGrown.png">
+    <img class="ui left floated rounded image" width="31%" src="../images/ICS485PomegranateBaby_Flowering.png">
 </p>
