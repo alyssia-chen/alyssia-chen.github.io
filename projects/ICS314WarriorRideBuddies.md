@@ -11,7 +11,8 @@ labels:
   - Meteor
   - React
   - Javascript
-summary: My team developed a web application that tracks users' COVID status over time and allows them to keep their vaccination record in the application. 
+summary: We created an application to help University of Hawaii at Manoa students get to and from campus through the use of carpools.
+ 
 ---
 
 ## Overview of the project
