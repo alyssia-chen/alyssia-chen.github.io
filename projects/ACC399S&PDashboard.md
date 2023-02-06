@@ -26,3 +26,5 @@ For this project, I worked with another person in the class (ACC 399 - Data Anal
 ## What I learned from the experience
 <img class="ui right floated rounded image" width="30%" src="../images/ACC399_Filter.png">
 For this experience, I learned about slicers and how to connect the charts to the slicers so that they all dynamically update. Another thing I learned was that it's okay to not be an expert in the subject matter (I hadn't taken an accounting class yet) because you can ask for assistance from your team members. Additionally, I also learned about the limitations of using excel. Namely, because it's not designed to be a database that's constantly updated, it can be hard to feed additional data to the dashboard without manually changing some things.
+
+{% include carousel.html %}
