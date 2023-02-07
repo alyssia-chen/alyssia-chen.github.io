@@ -9,7 +9,9 @@ permalink: projects/marketing
 date: 2023-01-01
 labels:
 - Marketing
-  summary: This page is a culmination of projects I worked on related to marketing.
+- Presentations
+- Papers
+summary: This page is a culmination of projects I worked on related to marketing.
 ---
 
 ## Communications Officer for the ACManoa Club
