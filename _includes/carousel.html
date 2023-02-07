@@ -6,9 +6,9 @@
   <div class="carousel-inner">
     {% assign my_carousel = "" | split: ',' %}
     {% for image in site.static_files %}
-    {% if image.path contains include.folder %}
-    {% assign my_carousel = my_carousel | push: image  %}
-    {% endif %}
+      {% if image.path contains include.folder %}
+        {% assign my_carousel = my_carousel | push: image  %}
+      {% endif %}
     {% endfor %}
 
     <ol class="carousel-indicators">

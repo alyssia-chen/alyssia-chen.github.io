@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/marketing/MKTSquare.png
-title: Assorted Marketing Projects
+title: Assorted Marketing Projects [WIP]
 permalink: projects/marketing
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-01
@@ -35,4 +35,6 @@ As the communications officer for ACManoa club, I create marketing materials for
 
 ## Non-CS Projects
 ### Marketing Projects
+[Link to Slides](https://docs.google.com/presentation/d/1CQo8Z8qw_AVyu-ai491boZejE0EQqxUzSlDrf2b3gVY/edit#slide=id.gfcba8adc72_0_143)
 
+[Link to Slides](https://docs.google.com/presentation/d/1Vh-UsrmC740PVQsSZr41XeP42huAIDJ_xAhkmkLMjgE/edit#slide=id.g115b5b7a977_0_299)
