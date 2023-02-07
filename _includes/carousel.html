@@ -12,7 +12,7 @@
     {% endfor %}
 
     <ol class="carousel-indicators">
-      {% for carosel_img in my_carousel %}
+      {% for carousel_img in my_carousel %}
       <li data-target="#carouselIndicators" data-slide-to="{{forloop.index0}}" class="{% if forloop.index == 1 %}active{% endif %}"></li>
       {% endfor %}
     </ol>

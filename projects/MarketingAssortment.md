@@ -21,6 +21,17 @@ As the communications officer for ACManoa club, I create marketing materials for
 {% include carousel.html folder="images/carousel" %}
 
 ### Flyers
+{% include carousel.html folder="images/marketing/Flyers" %}
+
+### Logo Design
+{% include carousel.html folder="images/marketing/LogoDesign" %}
+
+### Miscellaneous 
+{% include carousel.html folder="images/marketing/Misc" %}
+
+### Instagram
+{% include carousel.html folder="images/marketing/InstagramSquare" %}
+{% include carousel.html folder="images/marketing/InstagramStories" %}
 
 ## Non-CS Projects
 ### Marketing Projects
