@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/MKTSquare.png
+image: images/marketing/MKTSquare.png
 title: Assorted Marketing Projects
 permalink: projects/marketing
 # All dates must be YYYY-MM-DD format!
