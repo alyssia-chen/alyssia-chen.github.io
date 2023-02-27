@@ -2,7 +2,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-<div id="carouselIndicators{{ include.folder }}" class="carousel" data-ride="carousel">
+{% assign folder = include.folder | split: '/' %}
+<h1>{{ folder[-1] }}</h1>
+<div id="{{ folder[-1] }}" class="carousel" data-ride="carousel">
   <div class="carousel-inner">
     {% assign my_carousel = "" | split: ',' %}
     {% for image in site.static_files %}
@@ -10,23 +12,18 @@
         {% assign my_carousel = my_carousel | push: image  %}
       {% endif %}
     {% endfor %}
-
-    <ol class="carousel-indicators">
-      {% for carousel_img in my_carousel %}
-      <li data-target="#carouselIndicators{{ include.folder }}" data-slide-to="{{forloop.index0}}" class="{% if forloop.index == 1 %}active{% endif %}"></li>
-      {% endfor %}
-    </ol>
+    
     {% for carousel_img in my_carousel %}
     <div class="carousel-item {% if forloop.index0 == 0 %}active{% endif %}">
       <img class="d-block w-100" src="{{ site.baseurl }}{{ carousel_img.path }}" alt="image" />
     </div>
     {% endfor %}
   </div>
-  <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#{{ folder[-1] }}" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#{{ folder[-1] }}" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
