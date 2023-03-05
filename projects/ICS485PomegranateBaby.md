@@ -25,7 +25,7 @@ Created for my game design class, I made a game (my first game ever!) using Unit
  - [Deployment](https://alyssiachen.itch.io/pomegranate-baby) <- Unfortunately, mouse sensitivity got a bit cranked up on itch.io
 
 # My contributions
-A few weeks before our solo game project was due, I recalled an old Chinese folk story my told me. It was simple, heartwarming, and I realized that it would be a perfect "hook" for my game. As I thought through the story, details about how I could design the game to help me tell the tale came to me very quickly.
+A few weeks before our solo game project was due, I recalled an old Chinese folk story my mom told me. It was simple, heartwarming, and I realized that it would be a perfect "hook" for my game. As I thought through the story, details about how I could design the game to help me tell the tale came to me very quickly.
 
 Every weekend, I would hurry to finish the homework for other classes so that I could work on my game project. Specifically, I coded all of the game mechanics in C#, developed the 3D models in Unity, and drew the 2D story panels by hand. During this time, I also fiddled with creating melodies that fit the theme of the music (i.e. innocent, childish, nostalgic, and longing). So if you ever get a chance to hear the theme song, I composed it!
 
