@@ -55,7 +55,8 @@
         "R",
         "Javascript",
         "Meteor",
-        "Django"
+        "Django",
+        "React"
       ]
     },
     {
@@ -68,7 +69,8 @@
         "Microsoft Office Suite",
         "Unity",
         "VisualStudio Code",
-        "IntelliJ IDEA"
+        "IntelliJ IDEA",
+        "Blender"
       ]
     }
   ],
@@ -81,14 +83,20 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
-        "ICS 111 - Java Programming",
+        "ICS 111 - Introduction to Computer Science I",
         "ICS 141/241 - Discrete Mathematics I & II",
-        "ICS 211 - Data Structures",
+        "ICS 211 - Introduction to Computer Science II",
         "ICS 212 - Program Structure",
+        "ICS 235 - Machine Learning Methods",
         "ICS 311 - Algorithms",
+        "ICS 312 - Machine-Level and Systems Programming",
         "ICS 314 - Software Engineering I",
-        "ICS 491 - Special Topics",
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems",
+        "ICS 451 - Data Networks",
         "ICS 485 - Video Game Design and Development",
+        "ICS 491 - Special Topics",
+        "ICS 635 - Machine Learning",
         "MATH 215/242 - Calculus I & II"
       ]
     },
@@ -107,6 +115,7 @@
         "BUS 313 - Economics & Finanical Environment of Global Business",
         "BUS 314 - Business Finance",
         "BUS 315 - Global Management & Organizational Behavior",
+        "BUS 345 - Strategic Management",
         "ACC 200/210 - Introduction to Accounting I & II",
         "ECON 130/131 - Principles of Microeconomics/Macroeconomics",
         "BLAW 200 - Legal Environment of Business",
@@ -114,17 +123,33 @@
         "ICS 101 - Tools for the Information World",
         "ITM 352 - Programming Application Systems",
         "ITM 387K - Advanced Topics in Information System: Business Intelligence",
-        "MKT 321 - Marketing Research"
+        "MKT 321 - Marketing Research",
+        "MKT 311 - Consumer Behavior",
+        "MKT 362 - Digital Marketing",
+        "MKT 381 - International Marketing",
+        "MKT 391 - Marketing Strategies"
       ]
     }
   ],
   "work": [
     {
+      "company": "Hawaii Food Service Alliance",
+      "position": "Intern",
+      "website": "https://www.hfahawaii.com/",
+      "startDate": "2023-05-22",
+      "endDate": "2023-06-16",
+      "summary": "",
+      "highlights": [
+        "Created 2 marketing campaigns that I presented to the CEO, CFO, and CTO",
+        "Programmed a new view in the web application using Java Spring Boot and React"
+      ]
+    },
+    {
       "company": "Laboratory for Advanced Visualization & Applications (LAVA)",
       "position": "Student Research Assistant",
       "website": "https://www.lavaflow.info/",
       "startDate": "2022-06-01",
-      "endDate": "Present",
+      "endDate": "2023-05-12",
       "summary": "",
       "highlights": [
         "NSF-funded position"
@@ -172,6 +197,30 @@
     }
   ],
   "awards": [
+    {
+      "title": "7th place in Purdue Univ. Northwest’s College of Business International Digital Marketing Competition",
+      "date": "2023-2023",
+      "awarder": "Purdue Univ. Northwest’s College of Business",
+      "summary": "Over the course of 3 months, our team created an exciting marketing campaign for this year's case about Radio Flyer E-bikes. Out of 242 teams, our team placed 7th. For more details: https://digitalmarketingcompetition.com/2023/04/spring-2023-digital-marketing-competition-finalists-announced/."
+    },
+    {
+      "title": "UH Venture Competition Semifinalist",
+      "date": "2023-2023",
+      "awarder": "Pacific Asian Center for Entrepreneurship",
+      "summary": "The UH Venture Competition (formerly UH Business Plan Competition) started in 2000 and has become one of the most exciting events for University of Hawai‘i students and faculty interested in starting a business. The competition is a semester-long program that provides hands-on education, mentorship, and resources to aspiring entrepreneurs. Competitors from various fields collaborate and practice developing a business plan and pitching it to investors."
+    },
+    {
+      "title": "Double Finalist in Breakthrough Innovation Challenge",
+      "date": "2022-2022",
+      "awarder": "Pacific Asian Center for Entrepreneurship",
+      "summary": "The UH Breakthrough Innovation Challenge is an entrepreneurial competition where participants pitch their innovative business idea to a panel of judges, for a chance to win cash prizes."
+    },
+    {
+      "title": "Meteor International Hackathon 2nd Place",
+      "date": "2022-2022",
+      "awarder": "Meteor.js",
+      "summary": "Over the course of a week, our team of 5 built gamified application to track people's sustainable habits while utilizing theories of social norm and social comparison. Out of 94 registered teams, our team placed 2nd."
+    },
     {
       "title": "Dean's list",
       "date": "2019-2022",
