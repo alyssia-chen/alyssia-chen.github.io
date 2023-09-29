@@ -5,7 +5,7 @@
     "picture": "https://alyssia-chen.github.io/images/ProfilePic_square2.jpg",
     "email": "abc8@hawaii.edu",
     "website": "https://alyssia-chen.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences; a B.B.A in Marketing at the Shidler College of Business at the University of Hawaii; and a B.A. minor at the Department of Psychology. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at University of Hawaii at Manoa.  I expect to graduate in Fall, 2024.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,7 +22,7 @@
       {
         "network": "linkedin",
         "username": "alyssia-chen",
-        "url": "http://linkedin.com/in/alyssia-chen-40024a204"
+        "url": "http://linkedin.com/in/alyssia-chen"
       }
     ]
   },
@@ -56,7 +56,9 @@
         "Javascript",
         "Meteor",
         "Django",
-        "React"
+        "React",
+        "Python",
+        "Google Scripting"
       ]
     },
     {
@@ -77,10 +79,21 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Information and Computer Sciences",
+      "studyType": "M.S.",
+      "startDate": "2023-08-21",
+      "endDate": "Present",
+      "gpa": "4.0",
+      "courses": [
+        
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Information and Computer Sciences",
       "studyType": "B.A.",
       "startDate": "2019-08-01",
-      "endDate": "Present",
+      "endDate": "2023-05-13",
       "gpa": "4.0",
       "courses": [
         "ICS 111 - Introduction to Computer Science I",
@@ -102,11 +115,11 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Business (expected Spring, 2023)",
+      "area": "Business",
       "studyType": "B.B.A",
       "startDate": "2019-08-01",
-      "endDate": "Present",
-      "gpa": "4.0",
+      "endDate": "2023-05-13",
+      "gpa": "3.9",
       "courses": [
         "BUS 209 - Written Communication in Business",
         "BUS 310 - Statistical Analysis for Business Decisions",
@@ -132,6 +145,20 @@
     }
   ],
   "work": [
+    {
+      "company": "Servco Toyota Pacific",
+      "position": "Product Owner Intern",
+      "website": "https://www.servco.com/",
+      "startDate": "2023-05-22",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Conducted interviews and surveys with stakeholders to collect valuable insights and user needs, ensuring a thorough understanding of project requirements",
+        "Collaborated with cross-functional teams to create and maintain product backlogs, detailing user stories, features, and technical tasks for clear project direction, and maintain user's view when working with design teams",
+        "Created detailed user stories, acceptance criteria, and documentation to guide the development team, ensuring a clear and shared understanding of project objectives",
+        "Proficiently used project management and collaboration tools (e.g., Jira) to track progress, manage backlogs, and facilitate efficient project communication",
+      ]
+    },
     {
       "company": "Hawaii Food Service Alliance",
       "position": "Intern",
